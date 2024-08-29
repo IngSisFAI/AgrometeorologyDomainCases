@@ -5,4 +5,4 @@ Repository of assets from two domain cases: *Domain case 1 - Villa Regina* and *
 
 Description of folders: 
 * **Datasets**: Source datasets from both cases
-* **Notebook codes**: Jupiter notebook codes in python for preparation and analisys activities. 
+* **Notebook codes**: Jupyter notebook codes in python for preparation and analisys activities. 
