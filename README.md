@@ -3,6 +3,6 @@ Agrometeorology Domain Problem: Analyze the influence of weather  variables on l
 
 Repository of assets from two domain cases: *Domain case 1 - Villa Regina* and *Domain case 2 - Guerrico*
 
-Descroption of folders: 
+Description of folders: 
 * **Datasets**: Source datasets from both cases
-* **Python codes**: python codes for preparation and analisys activities. 
+* **Notebook codes**: Jupiter notebook codes in python for preparation and analisys activities. 
